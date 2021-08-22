@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gupta</h1>
-<h3 align="center">FrontEnd Development | C++ </h3>
+<h3 align="center">FrontEnd Development | C++</h3>
 
 - 🌱 I’m currently learning **React Js**
 
@@ -58,6 +58,6 @@
   
 </br>
 </p>
-  
+
 
 
