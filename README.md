@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gupta</h1>
-<h3 align="center">FrontEnd Development | C++</h3>
-
-- 🌱 I’m currently learning **MERN**
+<h3 align="center">Full Stack Development | Java | Spring | React Js | C++</h3>
 
 - 📫 How to reach me **sudhanshu29gupta@gmail.com**
 
