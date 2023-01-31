@@ -56,43 +56,39 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     </br>
-    <a href="https://www.cprogramming.com/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"
-            height="50" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="50" height="50" /> </a>
+            src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+            alt="cplusplus" width="50" height="50" /> </a> .
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="50" height="50" /> </a>
-    <a href="https://www.python.org" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="50" height="50" /> </a>
+            src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg"
+            alt="javascript" width="50" height="50" /> </a> . 
+    <a href="https://www.java.com" target="__blank"> <img
+            src="https://cdn.cdnlogo.com/logos/j/2/java.svg"
+            alt="java" width="50" height="50" /> </a> .
     <a href="https://reactjs.org/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="50" height="50" /> </a>
+            src="https://cdn.cdnlogo.com/logos/r/21/react.svg"
+            alt="react" width="50" height="50" /> </a> .
     <a href="https://www.w3.org/html/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="50" height="50" /> </a>
+            src="https://cdn.cdnlogo.com/logos/h/84/html.svg"
+            alt="html5" width="50" height="50" /> </a> . 
     <a href="https://www.w3schools.com/css/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="50" height="50" /> </a>
+            src="https://cdn.cdnlogo.com/logos/c/18/css.svg"
+            alt="css3" width="50" height="50" /> </a> .
     <a href="https://getbootstrap.com" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="50" height="60" /> </a>
+            src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"
+            alt="bootstrap" width="50" height="50" /> </a> . 
+    <a href="https://spring.com" target="__blank"> <img
+            src="https://cdn.cdnlogo.com/logos/s/91/spring.svg"
+            alt="spring" width="50" height="60" /> </a> .
     <a href="https://www.mysql.com/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="50" height="50" /> </a>
+            src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"
+            alt="mysql" width="80" height="50" /> </a> .
     <a href="https://www.mongodb.com/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="50" height="50" /> </a>
-    <a href="https://opencv.org/" target="__blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-            alt="opencv" width="50" height="50" /> </a>
-    <a href="https://www.linux.org/" target="__blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="50" height="50" /> </a>
-    <a href="https://www.figma.com/" target="__blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-            alt="figma" width="50" height="50" /> </a>
+            src="https://cdn.cdnlogo.com/logos/m/25/mongodb.svg"
+            alt="mongodb" width="120" height="50" /> </a> .
+    <a href="https://www.figma.com/" target="__blank"> <img 
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+            alt="figma" width="50" height="50" /> </a> .
     <a href="https://git-scm.com/" target="__blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /> </a>
     </br>
